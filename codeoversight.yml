@@ -1,3 +1,2 @@
 php:
-    trailing_whitespace: remove
     whitespace_before_function_brace: space
