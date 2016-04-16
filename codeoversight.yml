@@ -1,5 +1,3 @@
 php:
     align_array_elements: space
     align_doc_tags: space
-
-    doc_param_return_tags_alignment: no_align
