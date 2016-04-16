@@ -1,4 +1,3 @@
 php:
-    align_array_elements: space
     trailing_whitespace: remove
     whitespace_before_function_brace: space
