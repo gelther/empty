@@ -38,4 +38,4 @@ php:
     whitespace_before_function_close: no_space
     whitespace_before_function_parentheses: no_space
 
-    # doc_param_return_tags_alignment: no_align
+    doc_param_return_tags_alignment: no_align
