@@ -1,2 +1,4 @@
 php:
     whitespace_before_function_brace: space
+    closing_php_tag: remove
+    trailing_whitespace: remove
