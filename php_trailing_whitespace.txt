@@ -1,0 +1,4 @@
+Array
+(
+    [php_trailing_whitespace] => remove
+)
