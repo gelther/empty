@@ -1,0 +1,4 @@
+Array
+(
+    [php_true_false_casing] => lower
+)
