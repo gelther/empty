@@ -1,0 +1,4 @@
+Array
+(
+    [php_whitespace_before_function_brace] => space
+)
