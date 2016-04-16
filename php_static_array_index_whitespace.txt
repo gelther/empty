@@ -1,0 +1,4 @@
+Array
+(
+    [php_static_array_index_whitespace] => no_space
+)
