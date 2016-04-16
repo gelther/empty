@@ -1,0 +1,4 @@
+Array
+(
+    [php_remove_double_semicolon] => remove
+)
