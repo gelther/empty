@@ -1,0 +1,4 @@
+Array
+(
+    [php_php_tag_casing] => lower
+)
