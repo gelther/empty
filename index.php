@@ -9,11 +9,9 @@ echo "hello wolrd"
 /**
  *  Hello world function.
  */
- 
-function hello_world ( $a,$b)
-{
-  echo $a;
-  return $b;
+function hello_world ( $a,$b) {
+	echo $a;
+	return $b;
 }
 
 ?>
