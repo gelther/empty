@@ -6,14 +6,11 @@ echo "hello wolrd"
 
 <?php 
 
-/**  
+/**
  *  Hello world function.
  */
-    
-function hello_world ( $a,$b)  
+function hello_world ( $a, $b )  
 { 
   echo $a;
   return $b;  
 }
-
-?>
