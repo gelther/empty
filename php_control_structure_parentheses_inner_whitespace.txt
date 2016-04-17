@@ -1,0 +1,4 @@
+Array
+(
+    [php_control_structure_parentheses_inner_whitespace] => whitespace
+)
