@@ -1,0 +1,4 @@
+Array
+(
+    [php_force_control_structure_braces] => force
+)
