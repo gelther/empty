@@ -9,7 +9,6 @@ echo "hello wolrd"
 /**  
  *  Hello world function.
  */
-    
 function hello_world ( $a,$b)  
 { 
   echo $a;
