@@ -1,0 +1,4 @@
+Array
+(
+    [php_align_doc_tags] => space
+)
