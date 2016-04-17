@@ -1,0 +1,4 @@
+Array
+(
+    [php_align_variables] => space
+)
