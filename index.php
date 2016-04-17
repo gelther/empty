@@ -6,7 +6,7 @@ echo "hello wolrd"
 
 <?php 
 
-/**  
+/**
  *  Hello world function.
  */
     
