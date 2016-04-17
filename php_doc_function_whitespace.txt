@@ -1,0 +1,4 @@
+Array
+(
+    [php_doc_function_whitespace] => no_space
+)
