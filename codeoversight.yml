@@ -2,9 +2,9 @@ php:
     align_array_elements: space
     align_doc_tags: space
     align_variables: space
-    control_structure_parentheses_inner_whitespace: whitespace
     closing_newline: add
     closing_php_tag: remove
+    control_structure_parentheses_inner_whitespace: whitespace
     doc_function_whitespace: no_space
     else_if_whitespace: no_space
     exclamation_whitespace: whitespace
@@ -37,3 +37,5 @@ php:
     whitespace_before_function_brace: space
     whitespace_before_function_close: no_space
     whitespace_before_function_parentheses: no_space
+
+    doc_param_return_tags_alignment: no_align
