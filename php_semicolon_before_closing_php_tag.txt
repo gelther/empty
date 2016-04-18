@@ -1,0 +1,4 @@
+Array
+(
+    [php_semicolon_before_closing_php_tag] => add
+)
