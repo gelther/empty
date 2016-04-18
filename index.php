@@ -1,6 +1,6 @@
 <?php
     
-echo "hello wolrd"
+echo "hello wolrd";
 ?>
 <div class="">Boo!</div>
 
@@ -15,5 +15,3 @@ function hello_world ( $a,$b)
   echo $a;
   return $b;  
 }
-
-?>
