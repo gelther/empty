@@ -1,0 +1,4 @@
+Array
+(
+    [php_closing_newline] => add
+)
