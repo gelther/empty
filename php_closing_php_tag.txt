@@ -1,0 +1,4 @@
+Array
+(
+    [php_closing_php_tag] => remove
+)
