@@ -1,3 +1,3 @@
-<?PHP     
-   
-echo "Hello world"    
+<?PHP
+
+echo "Hello world"
