@@ -1,4 +1,4 @@
- 
-<?php   
- 
-bye( 'world' );   
+
+<?php
+
+bye( 'world' );
