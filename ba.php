@@ -1,5 +1,5 @@
-<?php  
-    
-hello("world"); 
- hello("uni"); 
- 
+<?php
+
+hello("world");
+ hello("uni");
+
