@@ -1,6 +1,6 @@
-<?php  
-    
-hello("world"); 
- 
-hello("universe "); 
- 
+<?php
+
+hello("world");
+
+hello("universe ");
+
