@@ -1,4 +1,4 @@
 php:
     string_operator_whitespace: whitespace
     trailing_whitespace: remove
-    true_false_casing: lower
+    true_false_casing: upper
